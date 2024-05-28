@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Add_Des">
+    <Position X="4.75" Y="3.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AgAAAEAAAAAAAAABIAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Add_Des.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Admin" Collapsed="true">
+    <Position X="12.5" Y="6.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAgBAAZIAAAAAAQACAABAQIuAEgAABCQCAAAQCgAQAA=</HashCode>
+      <FileName>Admin.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assignment" Collapsed="true">
+    <Position X="8.75" Y="13" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AgAAAEAABAAAAAABIAAQAQABAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Assignment.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Attendence">
+    <Position X="0.75" Y="10" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgBAAgAAAAACAAAAAABAgAAAACAAAAAAA=</HashCode>
+      <FileName>Attendence.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Club">
+    <Position X="6.25" Y="7.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Club.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Course">
+    <Position X="9" Y="4.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AIQAAAAAAAAAAAAhAIABACAAAAABAgAAAAACAIAAABA=</HashCode>
+      <FileName>Course.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CourseInfo">
+    <Position X="6.5" Y="9.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAACCAAAAIAAAAAAAAAgAEAAAAAAAIQAAAAAAAQgA=</HashCode>
+      <FileName>CourseInfo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Date">
+    <Position X="22.25" Y="4" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQBAAAAEAAAAABAAAAAAEAAAAEADAAAAAAAgAAA=</HashCode>
+      <FileName>Date.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Department">
+    <Position X="18.25" Y="5.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAABBAAAAAAAFAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Department.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Enrollement" Collapsed="true">
+    <Position X="5" Y="17" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAEAEAAABAAAAAEAAAABAAiAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enrollment.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Event">
+    <Position X="1.5" Y="6" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAEAACBEAAAAAAAAgAAAEAABAAAAQAAAAA=</HashCode>
+      <FileName>Event.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Faculty" Collapsed="true">
+    <Position X="15.5" Y="6.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIAYABAAAgAIEAAAAAEAAgAFBAAgACAAkAQACIAAA=</HashCode>
+      <FileName>Faculty.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FacultyCourseAllocation">
+    <Position X="10.5" Y="14.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AACAQAgAAAIAAAABBAAAAEgAAAAAAgAACACAAAAAAAA=</HashCode>
+      <FileName>FacultyCourseAllocation.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Grade" Collapsed="true">
+    <Position X="0.75" Y="14.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAEAAAA=</HashCode>
+      <FileName>Grade.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryResource">
+    <Position X="19" Y="1.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAJCAAAAAAAQAAAQAAAgBA=</HashCode>
+      <FileName>LibraryResource.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LMS">
+    <Position X="25.5" Y="1" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAMAAAAKAAIAAAAAAAAAAhAAQAAAAAAAAAA=</HashCode>
+      <FileName>LMS.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MySQL_Conn">
+    <Position X="22.5" Y="1.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAACAAAAAAgAAAQAAAEAAIAAAAAAABA=</HashCode>
+      <FileName>MySQL_Conn.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Person" Collapsed="true">
+    <Position X="13.75" Y="5.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AIEAEAAAACAAAAAhAAAAAAAAAAAAIAABAAYAAAAQAAA=</HashCode>
+      <FileName>Person.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project">
+    <Position X="4" Y="6.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Project.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Std_db">
+    <Position X="10" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEBAAAAAAAEAAAEAEQAQAAAEAAAQgA=</HashCode>
+      <FileName>Std_db.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Student" Collapsed="true">
+    <Position X="13.5" Y="8" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>ACQAQgQBQAACAAIhBAAAACQAAAgAAgAIAAACAAAMAAI=</HashCode>
+      <FileName>Student.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentCourseInfo" Collapsed="true">
+    <Position X="4" Y="13.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>hEAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>StudentCourseInfo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
